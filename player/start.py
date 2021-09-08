@@ -68,12 +68,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="devs":
         buttons = [
             [
-                InlineKeyboardButton("Lᴏᴜɪꜱ", url="https://t.me/DeeCodeBots"),
-                InlineKeyboardButton("Eʀʀᴏʀ", url="https://t.me/ProErrorXD"),
+                InlineKeyboardButton("Pʀᴀᴛʜᴇᴇᴋ", url="https://t.me/pratheek06"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
             ],
             [
-                InlineKeyboardButton("Bʟᴀᴢᴇ", url="https://t.me/piroXpower"),
-                InlineKeyboardButton("Pʀɪɴᴄᴇ", url="https://t.me/DEVILDAD_PRINCE"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
             ],
             [
                 InlineKeyboardButton("Bᴀᴄᴋ", callback_data="start"),
