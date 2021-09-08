@@ -4,6 +4,8 @@ from config import SOURCE_CODE, ASSISTANT_NAME, SUPPORT_GROUP, UPDATES_CHANNEL, 
 from plugins.tr import *
 from pyrogram.errors import MessageNotModified
 
+ELINA_IMG=https://telegra.ph/file/6cf7041cfd5184eaf2aac.jpg
+
 @Client.on_message(filters.command("start"))
 async def start(client, message):
    buttons = [
