@@ -11,7 +11,7 @@ async def start(client, message):
                 InlineKeyboardButton("❔ Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ ❓", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("Dᴇᴠ 👨🏻‍💻", url=f"https://t.me/Pratheek_XD"),
+                InlineKeyboardButton("Dᴇᴠ 👨🏻‍💻", url=f"https://t.me/akshhhxx"),
                 InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
@@ -68,12 +68,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="devs":
         buttons = [
             [
-                InlineKeyboardButton("Pʀᴀᴛʜᴇᴇᴋ 🥀", url="https://t.me/pratheek06"),
-                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
+                InlineKeyboardButton("𝗔𝗮𝗸𝗮𝘀𝗵🖤", url="https://t.me/akshhhxx"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/akshhhxx"),
             ],
             [
-                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
-                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/Pratheek_XD"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/akshhhxx"),
+                InlineKeyboardButton("Nᴏɴᴇ", url="https://t.me/akshhhxx"),
             ],
             [
                 InlineKeyboardButton("Bᴀᴄᴋ", callback_data="start"),
@@ -94,7 +94,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("❔ Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ ❓", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("Dᴇᴠ 👨🏻‍💻", url=f"https://t.me/Pratheek_XD"),
+                InlineKeyboardButton("Dᴇᴠ 👨🏻‍💻", url=f"https://t.me/akshhhxx"),
                 InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
